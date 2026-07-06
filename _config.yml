@@ -23,7 +23,7 @@ repository               : "Sep905/Sep905.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "img.png"
   name             : "Giuseppe Albi, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
