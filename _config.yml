@@ -39,9 +39,9 @@ author:
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0008-7634-0913"
-  #semantic         : # URL
-  #ssrn             : # URL
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  semantic         : # URL
+  ssrn             : # URL
+  pubmed           :  # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
